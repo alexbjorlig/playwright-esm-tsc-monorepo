@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        // "baseUrl": ".",
+        // "paths": {
+        //     "helps/*": ["../../packages/helper/src/*.ts"],
+        //     // "@prefix/helper/*": ["../../packages/helper/*.ts"]
+        // }
+    },
+    "include": ["tests/**/*.ts"]
+}

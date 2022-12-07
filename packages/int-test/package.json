@@ -1,0 +1,7 @@
+{
+    "name": "int-test",
+    "type": "module",
+    "scripts": {
+        "test": "playwright test"
+    }
+}
